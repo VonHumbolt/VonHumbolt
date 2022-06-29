@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vonhumbolt" alt="vonhumbolt" /></a> </p>
 
-- 🔭 I’m currently working on [Blog Project](https://github.com/VonHumbolt/BlogProject) and [Blog Project Frontend](https://github.com/VonHumbolt/BlogProject-Frontend)
+- 🔭 I’m currently learning Spring Tests. 
 
-- 🌱 My last project is [Car Rental Project](https://github.com/VonHumbolt/CarRentalProject)
+- 🌱 My last projects are [Blog Project](https://github.com/VonHumbolt/BlogProject) and [Blog Project Frontend](https://github.com/VonHumbolt/BlogProject-Frontend).
 
 - 📫 How to reach me **kaankaplan111@gmail.com**
 
