@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vonhumbolt" alt="vonhumbolt" /></a> </p>
 
-- 🌱 My last projects are [Blog Project](https://github.com/VonHumbolt/BlogProject) and [Blog Project Frontend](https://github.com/VonHumbolt/BlogProject-Frontend).
+- 🌱 My last project is [CineVision Microservice Project](https://github.com/VonHumbolt/CineVisionMicroserviceProject).
 
 - 📫 How to reach me **kaankaplan111@gmail.com**
 
