@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">Junior Software Developer from Turkey</h3>
+<h3 align="center">Software Developer from Turkey</h3>
 
-<p align="center"> I am studying Survey Engineering at Çanakkale Onsekiz Mart University. Also, I am interested in Android, Backend and Frontend Programing. </p>
+<p align="center"> I am interested in Backend, Frontend and Android Programming. 
+</p>
+<p align="center">  My main language is Java and I develop backend projects usign Spring Framework
+  for 2+ years. Also, I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects.
+</p>
+<p align="center"> Other technologies and languages I use: Python, Kotlin, C#, Angular and Microservices.
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vonhumbolt&label=Profile%20views&color=0e75b6&style=flat" alt="vonhumbolt" /> </p>
 
