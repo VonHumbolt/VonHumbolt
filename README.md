@@ -3,7 +3,7 @@
 
 <p align="center"> I am interested in Backend, Frontend and Android Programming. 
 </p>
-<p align="center">  My main language is Java and I develop backend projects usign Spring Framework
+<p align="center">  My main language is Java and I develop backend projects using Spring Framework
   for 2+ years. Also, I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects.
 </p>
 <p align="center"> Other technologies and languages I use: Python, Kotlin, C#, Angular and Microservices.
