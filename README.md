@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">Software Developer from Turkey</h3>
 
-<p align="center"> I am interested in Backend, Frontend and Android Programming. 
+<p align="center"> I am interested in Backend, Frontend and Mobile Programming. 
 </p>
 <p align="center">  My main language is Java and I develop backend projects using Spring Framework
   for 2+ years. Also, I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects.
