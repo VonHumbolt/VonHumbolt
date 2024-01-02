@@ -6,7 +6,7 @@
 <p align="center">  My main language is Java and I develop backend projects using Spring Framework
   for 2+ years. Also, I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects.
 </p>
-<p align="center"> Other technologies and languages I use: Python, Kotlin, C#, Angular and Microservices.
+<p align="center"> Other technologies and languages I use: React Native, Python, Kotlin, C#, Angular and Microservices.
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vonhumbolt&label=Profile%20views&color=0e75b6&style=flat" alt="vonhumbolt" /> </p>
@@ -15,7 +15,7 @@
 
 ### My Website -> [Visit My Portfolio](https://my-portfolio-one-opal.vercel.app)
 
-- 🌱 My last project is [RoadBed Full Stack Web Project](https://github.com/VonHumbolt/RoadBedProject).
+- 🌱 My last project is [BookE Project](https://github.com/VonHumbolt/BookeProject).
 
 - 📫 How to reach me **kaankaplan111@gmail.com**
 
